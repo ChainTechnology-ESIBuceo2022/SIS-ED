@@ -1,0 +1,8 @@
+{
+  "Login: ": "Exitoso",
+  "ID_User": 1,
+  "Nombre": "Jackson",
+  "Apellido": "Collins",
+  "Email": "jack@jack.com",
+  "Rol": "Administrator"
+}
