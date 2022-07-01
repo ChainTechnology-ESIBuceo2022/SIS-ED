@@ -1,0 +1,105 @@
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Presentacion.Principal_BackOffice.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.AgregarUsuario.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.EditarUsuario.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Presentacion.Principal_UsuarioEstandar.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\Proyecto.exe
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\Proyecto.deps.json
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\Proyecto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\ref\Proyecto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Proyecto.Principal.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.AñadirImagen.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\Proyecto.exe
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\Proyecto.deps.json
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\Proyecto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Presentacion.Principal_UsuarioEstandar.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Presentacion.Principal_BackOffice.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.AñadirImagen.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.AgregarUsuario.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.EditarUsuario.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.Principal.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+C:\Users\fede\Desktop\ChainTechnology_NUEVO - Reestructurado\Presentacion\obj\Debug\net6.0-windows\ref\Proyecto.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\Proyecto.exe
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\Proyecto.deps.json
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\Proyecto.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Presentacion.Principal_UsuarioEstandar.resources
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Presentacion.Principal_BackOffice.resources
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.AñadirImagen.resources
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.AgregarUsuario.resources
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Presentacion.BackOffice.EditarUsuario.resources
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.Principal.resources
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+C:\Users\fede\Documents\ChainTechnology_Proyecto\ChainTechnology_Proyecto\ChainTechnology_Proyecto\Presentacion\obj\Debug\net6.0-windows\ref\Proyecto.dll

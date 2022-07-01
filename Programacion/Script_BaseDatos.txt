@@ -1,0 +1,14 @@
+create database ChainTechnology
+use ChainTechnology
+
+create table Usuarios(
+    id_usuario int primary key auto_increment,
+    nombre_u varchar(15),
+    nombre varchar(15), 
+    apellido varchar(15), 
+    rol varchar(25),
+    email varchar(60),
+    contraseña varchar(25)	
+);
+
+INSERT INTO `chaintechnology`.`usuarios` (`nombre_u`, `nombre`, `apellido`, `rol`, `email`, `contraseña`) VALUES ('fviera', 'federico', 'viera', 'Superusuario', 'fede@gmail.com', 'fede');

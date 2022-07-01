@@ -1,0 +1,4 @@
+usuario: fviera	
+contraseña: fede
+
+se debe ejecutar en MySqlWorkbench script de base de datos para funcionar el sistema
