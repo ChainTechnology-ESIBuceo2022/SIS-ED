@@ -44,7 +44,6 @@ namespace Presentacion
                 CacheUsuarioPresentacion.apellido = datosUsuario[3];
                 CacheUsuarioPresentacion.rol = datosUsuario[4];
                 CacheUsuarioPresentacion.email = datosUsuario[5];
-                CacheUsuarioPresentacion.contraseña = datosUsuario[6];
 
                 this.Close();
                 

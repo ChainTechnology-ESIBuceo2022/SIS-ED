@@ -17,5 +17,4 @@ using System.Threading.Tasks;
         public static string apellido { get; set; }
         public static string rol { get; set; }
         public static string email { get; set; }
-        public static string contraseña { get; set; }
     }

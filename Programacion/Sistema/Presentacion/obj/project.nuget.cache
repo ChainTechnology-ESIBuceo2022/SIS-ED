@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dPAEpl8ZEyNLJapvTi2ahtjpysSkVzDT+rBLQASJYEgWdRwMXni4L1NFG0qNdFmSP8tua04tJ9AAmwpJp1Z0SA==",
+  "dgSpecHash": "RkfM4xhiF7XTrVNmqHnWypTpepdF1b80aPMlcTUbqVsIgOKnKFEnB20xRNYaWrDs5O9H0YFZ6QNyTbt0vZWxFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fede\\Documents\\ChainTechnology_Proyecto\\ChainTechnology_Proyecto\\ChainTechnology_Proyecto\\Presentacion\\Proyecto.csproj",
+  "projectFilePath": "C:\\Users\\fede\\SIS-ED\\Programacion\\Sistema\\Presentacion\\Proyecto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fede\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
     "C:\\Users\\fede\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",

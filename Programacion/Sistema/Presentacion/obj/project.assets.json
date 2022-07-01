@@ -1337,11 +1337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fede\\Documents\\ChainTechnology_Proyecto\\ChainTechnology_Proyecto\\ChainTechnology_Proyecto\\Presentacion\\Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\fede\\SIS-ED\\Programacion\\Sistema\\Presentacion\\Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "C:\\Users\\fede\\Documents\\ChainTechnology_Proyecto\\ChainTechnology_Proyecto\\ChainTechnology_Proyecto\\Presentacion\\Proyecto.csproj",
+      "projectPath": "C:\\Users\\fede\\SIS-ED\\Programacion\\Sistema\\Presentacion\\Proyecto.csproj",
       "packagesPath": "C:\\Users\\fede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fede\\Documents\\ChainTechnology_Proyecto\\ChainTechnology_Proyecto\\ChainTechnology_Proyecto\\Presentacion\\obj\\",
+      "outputPath": "C:\\Users\\fede\\SIS-ED\\Programacion\\Sistema\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fede\\AppData\\Roaming\\NuGet\\NuGet.Config",
